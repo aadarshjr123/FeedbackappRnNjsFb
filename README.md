@@ -18,7 +18,7 @@ This app content basic features like,
  ### Screenshot
  <div style="display:grid">
 
-<img src="feedback/feedbackapp/screenshots/Screenshot_20201029-154539.jpg" height="380px"/>
+<img src="feedback/feedbackapp/screenshots/Screenshot_20201029-153802.jpg.jpg" height="380px"/>
 <img src="feedback/feedbackapp/screenshots/Screenshot_20201029-153839.jpg" height="380px"/>
 <img src="feedback/feedbackapp/screenshots/Screenshot_20201029-154026.jpg" height="380px"/>
 <img src="feedback/feedbackapp/screenshots/Screenshot_20201029-154539.jpg" height="380px"/>
