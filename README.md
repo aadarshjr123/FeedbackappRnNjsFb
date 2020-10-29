@@ -12,7 +12,7 @@ This app content basic features like,
 
 ## Run on Device
 
-- run `yarn android`to run on device or emulator
+- run `yarn android` to run on device or emulator
 
 
  ### Screenshot
