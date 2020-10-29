@@ -1,4 +1,4 @@
-# feedbackapp
+# Feedbackapp
 This app content basic features like,
 
       1.Authenticating the users.
